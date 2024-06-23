@@ -53,20 +53,19 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
+        "swap",
+        "liquidity",
         "voting",
-        "bribe"
+        "bribe",
+        "staking"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Others",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/launchpad",
+        "essentials/dca-program",
+        "essentials/lending"
       ]
     },
     {
