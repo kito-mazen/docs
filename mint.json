@@ -52,7 +52,12 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "introduction"
+      ]
+    },
+    {
+      "group": "Features",
+      "pages": [
         "swap",
         "liquidity",
         "voting",
@@ -70,9 +75,7 @@
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
