@@ -51,18 +51,15 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction"
-      ]
+      "pages": ["introduction"]
     },
     {
-      "group": "Features",
-      "pages": [
-        "swap",
-        "liquidity",
-        "voting",
-        "bribe"
-      ]
+      "group": "Tokenomics",
+      "pages": ["tokenomics", "Emission Schedule", "Token Distribution"]
+    },
+    {
+      "group": "Core Functionality",
+      "pages": ["swap", "gauges","voting", "bribe","Yield-Generating Stablecoin","LP Leverage Lending","Automated Strategy Liquidity Management"]
     },
     {
       "group": "Others",
