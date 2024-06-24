@@ -61,14 +61,12 @@
         "voting",
         "bribe",
         "stablecoin",
-        "lending",
-        "aslm",
         "bridge"
       ]
     },
     {
-      "group": "More",
-      "pages": ["essentials/launchpad", "essentials/dca-program"]
+      "group": "Advanced Features",
+      "pages": ["lending", "aslm", "essentials/launchpad", "essentials/dca-program"]
     },
     {
       "group": "Protocol Fees",
