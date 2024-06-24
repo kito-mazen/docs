@@ -54,29 +54,29 @@
       "pages": ["introduction"]
     },
     {
+      "group": "Core Functionality",
+      "pages": [
+        "swap",
+        "gauges",
+        "voting",
+        "bribe",
+        "Yield-Generating Stablecoin",
+        "Lending (Isolated)",
+        "Automated Strategy Liquidity Management",
+        "Bridge"
+      ]
+    },
+    {
       "group": "Tokenomics",
       "pages": ["tokenomics", "Emission Schedule", "Token Distribution"]
     },
     {
-      "group": "Core Functionality",
-      "pages": ["swap", "gauges","voting", "bribe","Yield-Generating Stablecoin","LP Leverage Lending","Automated Strategy Liquidity Management"]
-    },
-    {
-      "group": "Others",
-      "pages": [
-        "essentials/launchpad",
-        "essentials/dca-program"
-      ]
+      "group": "Essentials",
+      "pages": ["essentials/launchpad", "essentials/dca-program"]
     },
     {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Core",
-      "pages": [
-        "core/contracts"
-      ]
     }
   ],
   "footerSocials": {
