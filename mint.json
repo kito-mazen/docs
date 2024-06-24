@@ -51,7 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction"]
+      "pages": ["introduction","ve","token","venft"]
     },
     {
       "group": "Core Functionality",
@@ -60,10 +60,10 @@
         "gauges",
         "voting",
         "bribe",
-        "Yield-Generating Stablecoin",
-        "Lending (Isolated)",
-        "Automated Strategy Liquidity Management",
-        "Bridge"
+        "stablecoin",
+        "lending",
+        "aslm",
+        "bridge"
       ]
     },
     {
