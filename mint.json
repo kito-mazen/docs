@@ -51,7 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction","ve","token","venft"]
+      "pages": ["introduction", "ve", "token", "venft"]
     },
     {
       "group": "Core Functionality",
@@ -67,12 +67,16 @@
       ]
     },
     {
-      "group": "Tokenomics",
-      "pages": ["tokenomics", "Emission Schedule", "Token Distribution"]
+      "group": "More",
+      "pages": ["essentials/launchpad", "essentials/dca-program"]
     },
     {
-      "group": "Essentials",
-      "pages": ["essentials/launchpad", "essentials/dca-program"]
+      "group": "Protocol Fees",
+      "pages": ["fee-structure"]
+    },
+    {
+      "group": "Tokenomics",
+      "pages": ["tokenomics", "Emission Schedule", "Token Distribution"]
     },
     {
       "group": "API Documentation",
