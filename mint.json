@@ -35,17 +35,17 @@
     {
       "name": "Official Website",
       "icon": "browser",
-      "url": "https://mintlify.com/docs"
+      "url": "https://www.mazen.finance"
     },
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://discord.gg/rW5TJQjE"
     },
     {
       "name": "Medium",
       "icon": "medium",
-      "url": "https://mintlify.com/blog"
+      "url": "https://mazen.finance/blog"
     }
   ],
   "navigation": [
