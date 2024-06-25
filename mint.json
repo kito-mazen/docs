@@ -74,7 +74,7 @@
     },
     {
       "group": "Tokenomics",
-      "pages": ["tokenomics", "Emission Schedule", "Token Distribution"]
+      "pages": ["tokenomics", "emission-schedule", "token-distribution"]
     },
     {
       "group": "API Documentation",
