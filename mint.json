@@ -67,7 +67,7 @@
     },
     {
       "group": "Advanced Features",
-      "pages": ["lending","essentials/launchpad", "essentials/dca-program"]
+      "pages": ["dex-aggregators","lending","essentials/launchpad", "essentials/dca-program"]
     },
     {
       "group": "Protocol Fees",
