@@ -57,6 +57,7 @@
       "group": "Core Functionality",
       "pages": [
         "swap",
+        "aslm",
         "gauges",
         "voting",
         "bribe",
@@ -66,7 +67,7 @@
     },
     {
       "group": "Advanced Features",
-      "pages": ["lending", "aslm", "essentials/launchpad", "essentials/dca-program"]
+      "pages": ["lending","essentials/launchpad", "essentials/dca-program"]
     },
     {
       "group": "Protocol Fees",
