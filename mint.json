@@ -67,7 +67,12 @@
     },
     {
       "group": "Advanced Features",
-      "pages": ["dex-aggregators","lending","essentials/launchpad", "essentials/dca-program"]
+      "pages": [
+        "dex-aggregators",
+        "lending",
+        "essentials/launchpad",
+        "essentials/dca-program"
+      ]
     },
     {
       "group": "Protocol Fees",
@@ -86,5 +91,9 @@
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
+  },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
   }
 }
